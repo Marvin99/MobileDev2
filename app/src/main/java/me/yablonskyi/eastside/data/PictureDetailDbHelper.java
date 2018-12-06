@@ -4,6 +4,10 @@ import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
+/**
+ * Created by Marvin
+ */
+
 public class PictureDetailDbHelper extends SQLiteOpenHelper {
 
     //TAG for the class

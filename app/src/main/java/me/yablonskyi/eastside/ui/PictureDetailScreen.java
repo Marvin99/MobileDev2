@@ -22,6 +22,10 @@ import me.yablonskyi.eastside.data.PictureDetailContract.PictureDetailEntry;
 import me.yablonskyi.eastside.model.PictureDetail;
 import me.yablonskyi.eastside.utils.ApiUrls;
 
+/**
+ * Created by Marvin
+ */
+
 public class PictureDetailScreen extends AppCompatActivity {
 
     private ImageView mFavouriteImageIcon;

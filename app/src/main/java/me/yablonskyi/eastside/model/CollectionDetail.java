@@ -3,6 +3,7 @@ package me.yablonskyi.eastside.model;
 public class CollectionDetail {
 
     /**
+     * Created by Marvin
      * All the member variable that use to store information
      */
     private String mCollectionId;

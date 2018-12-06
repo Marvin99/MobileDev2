@@ -7,6 +7,10 @@ import com.android.volley.Request;
 import com.android.volley.RequestQueue;
 import com.android.volley.toolbox.Volley;
 
+/**
+ * Created by Marvin
+ */
+
 public class AppController extends Application {
 
     //get the Tag name of the application

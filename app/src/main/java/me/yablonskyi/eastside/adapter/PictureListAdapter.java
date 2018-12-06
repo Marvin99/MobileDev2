@@ -26,6 +26,10 @@ import me.yablonskyi.eastside.ui.PictureDetailScreen;
 import me.yablonskyi.eastside.utils.ApiUrls;
 import me.yablonskyi.eastside.data.PictureDetailContract;
 
+/**
+ * Created by Marvin
+ */
+
 public class PictureListAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     /**

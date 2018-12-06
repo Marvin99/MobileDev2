@@ -25,7 +25,9 @@ import me.yablonskyi.eastside.model.CollectionDetail;
 import me.yablonskyi.eastside.utils.ApiUrls;
 import me.yablonskyi.eastside.utils.AppController;
 
+
 /**
+ * Created by Marvin
  * A simple {@link Fragment} subclass.
  */
 public class CollectionPictureListFragment extends Fragment {

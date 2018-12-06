@@ -1,10 +1,10 @@
 package me.yablonskyi.eastside.utils;
 
 public class ApiUrls {
-
-    /**
-     * All api Url constants
-     */
+/**
+ * * Created by Marvin
+ * All api Url constants
+ */
 
     public static final String PICTURE_BASE_URL = "https://api.unsplash.com/";
     public static final String API_KEY_TAG = "client_id";

@@ -27,6 +27,10 @@ import me.yablonskyi.eastside.model.PictureDetail;
 import me.yablonskyi.eastside.utils.ApiUrls;
 import me.yablonskyi.eastside.utils.AppController;
 
+/**
+ * Created by Marvin
+ */
+
 public class CollectionPictureDetailScreen extends AppCompatActivity {
 
     public static final String TAG = CollectionPictureDetailScreen.class.getSimpleName();

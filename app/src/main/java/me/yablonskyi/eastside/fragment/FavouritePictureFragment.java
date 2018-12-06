@@ -18,6 +18,7 @@ import me.yablonskyi.eastside.model.PictureDetail;
 import me.yablonskyi.eastside.data.PictureDetailContract;
 
 /**
+ * Created by Marvin
  * A simple {@link Fragment} subclass.
  */
 public class FavouritePictureFragment extends Fragment {

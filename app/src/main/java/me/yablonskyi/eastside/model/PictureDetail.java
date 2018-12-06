@@ -6,6 +6,7 @@ import android.os.Parcelable;
 public class PictureDetail implements Parcelable {
 
     /**
+     * Created by Marvin
      * Storing the Picture data to Parcel object
      **/
     public static final Parcelable.Creator<PictureDetail> CREATOR = new Parcelable.Creator<PictureDetail>() {

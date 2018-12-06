@@ -16,6 +16,10 @@ import me.yablonskyi.eastside.fragment.CollectionPictureListFragment;
 import me.yablonskyi.eastside.fragment.FavouritePictureFragment;
 import me.yablonskyi.eastside.fragment.PictureListFragment;
 
+/**
+ * Created by Marvin
+ */
+
 public class MainScreen extends AppCompatActivity {
 
     //get the tag of the class

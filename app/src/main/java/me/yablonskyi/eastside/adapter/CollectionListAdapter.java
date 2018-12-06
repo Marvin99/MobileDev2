@@ -22,6 +22,10 @@ import me.chandansharma.wallhippo.R;
 import me.yablonskyi.eastside.model.CollectionDetail;
 import me.yablonskyi.eastside.ui.CollectionPictureDetailScreen;
 
+/**
+ * Created by Marvin
+ */
+
 public class CollectionListAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     /**

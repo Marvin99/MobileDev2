@@ -3,6 +3,10 @@ package me.yablonskyi.eastside.data;
 import android.content.ContentResolver;
 import android.net.Uri;
 
+/**
+ * Created by Marvin
+ */
+
 public class PictureDetailContract {
 
     //Content Authority

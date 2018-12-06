@@ -25,6 +25,7 @@ import me.yablonskyi.eastside.utils.ApiUrls;
 import me.yablonskyi.eastside.utils.AppController;
 
 /**
+ * Created by Marvin
  * A simple {@link Fragment} subclass.
  */
 public class PictureListFragment extends Fragment implements SwipeRefreshLayout.OnRefreshListener {
