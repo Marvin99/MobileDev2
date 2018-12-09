@@ -20,7 +20,8 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.animation.GlideAnimation;
 import com.bumptech.glide.request.target.SimpleTarget;
 import java.util.ArrayList;
-import me.chandansharma.wallhippo.R;
+import me.yablonskyi.eastside.R;
+
 import me.yablonskyi.eastside.model.PictureDetail;
 import me.yablonskyi.eastside.ui.PictureDetailScreen;
 import me.yablonskyi.eastside.utils.ApiUrls;

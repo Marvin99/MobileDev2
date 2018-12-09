@@ -11,7 +11,7 @@ import android.support.v7.widget.Toolbar;
 
 import java.util.ArrayList;
 
-import me.chandansharma.wallhippo.R;
+import me.yablonskyi.eastside.R;
 import me.yablonskyi.eastside.fragment.CollectionPictureListFragment;
 import me.yablonskyi.eastside.fragment.FavouritePictureFragment;
 import me.yablonskyi.eastside.fragment.PictureListFragment;

@@ -19,7 +19,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import java.util.ArrayList;
 
-import me.chandansharma.wallhippo.R;
+import me.yablonskyi.eastside.R;
 import me.yablonskyi.eastside.adapter.CollectionListAdapter;
 import me.yablonskyi.eastside.model.CollectionDetail;
 import me.yablonskyi.eastside.utils.ApiUrls;

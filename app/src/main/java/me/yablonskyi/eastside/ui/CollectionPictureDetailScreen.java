@@ -21,7 +21,7 @@ import org.json.JSONObject;
 
 import java.util.ArrayList;
 
-import me.chandansharma.wallhippo.R;
+import me.yablonskyi.eastside.R;
 import me.yablonskyi.eastside.adapter.PictureListAdapter;
 import me.yablonskyi.eastside.model.PictureDetail;
 import me.yablonskyi.eastside.utils.ApiUrls;

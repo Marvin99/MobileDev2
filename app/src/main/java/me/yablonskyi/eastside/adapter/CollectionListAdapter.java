@@ -17,8 +17,8 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.animation.GlideAnimation;
 import com.bumptech.glide.request.target.SimpleTarget;
 import java.util.ArrayList;
+import me.yablonskyi.eastside.R;
 import de.hdodenhof.circleimageview.CircleImageView;
-import me.chandansharma.wallhippo.R;
 import me.yablonskyi.eastside.model.CollectionDetail;
 import me.yablonskyi.eastside.ui.CollectionPictureDetailScreen;
 

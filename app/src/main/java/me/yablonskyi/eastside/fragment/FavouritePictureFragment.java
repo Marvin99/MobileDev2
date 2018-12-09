@@ -12,7 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ProgressBar;
 import java.util.ArrayList;
-import me.chandansharma.wallhippo.R;
+import me.yablonskyi.eastside.R;
 import me.yablonskyi.eastside.adapter.PictureListAdapter;
 import me.yablonskyi.eastside.model.PictureDetail;
 import me.yablonskyi.eastside.data.PictureDetailContract;

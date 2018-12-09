@@ -17,7 +17,7 @@ import com.bumptech.glide.Glide;
 import java.util.ArrayList;
 
 import de.hdodenhof.circleimageview.CircleImageView;
-import me.chandansharma.wallhippo.R;
+import me.yablonskyi.eastside.R;
 import me.yablonskyi.eastside.data.PictureDetailContract.PictureDetailEntry;
 import me.yablonskyi.eastside.model.PictureDetail;
 import me.yablonskyi.eastside.utils.ApiUrls;
